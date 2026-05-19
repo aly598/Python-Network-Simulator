@@ -12,13 +12,13 @@ A Python-based graphical network simulator built using `tkinter` and `networkx`.
 ## Screenshots 📸
 
 ### Main Interface
-![Main Interface](Images/main_interface.png)
+![Main Interface](images/main_interface.png)
 
 ### Network Topology Example
-![Network Topology](Images/topology_view.png)
+![Network Topology](images/topology_view.png)
 
 ### Successful Ping Test
-![Ping Test](Images/ping_success.png)
+![Ping Test](images/ping_success.png)
 
 ## Prerequisites 🛠️
 Make sure you have Python installed along with the required libraries. You will need `networkx`:
